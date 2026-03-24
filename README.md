@@ -1,4 +1,4 @@
-🐄 Veterinary Workforce Demand Forecasting System.
+🐄 Veterinary Workforce Demand Forecasting System
 
 A Machine Learning project to forecast veterinary inspector workforce demand using metaheuristic optimization algorithms and Random Forest regression.
 
